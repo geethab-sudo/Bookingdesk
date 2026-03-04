@@ -32,7 +32,7 @@
 
 - [X] T001 — specify command defined
 - [X] T002 — plan command defined
-- [ ] T003 — scripts stubbed or implemented (optional for audit; add as needed)
+- [X] T003 — scripts stubbed or implemented (check-implementation-prerequisites.sh/ps1)
 - [X] T004 — tasks command defined
 - [X] T005 — implement command defined
 - [X] T006 — constitution present at root
