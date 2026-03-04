@@ -4,6 +4,19 @@ Spec-Driven Development (SDD) workflow toolkit: specification → plan → tasks
 
 ---
 
+## For auditors / graders (SDD submission)
+
+**Start here:** [SUBMISSION.md](./SUBMISSION.md) — index of all required artifacts and exact paths.
+
+- **Specification:** [spec.md](./spec.md) | [specs.md](./specs.md) | [.specify/specs.md](./.specify/specs.md)
+- **Plan:** [plan.md](./plan.md)
+- **Tasks:** [tasks.md](./tasks.md)
+- **Constitution:** [constitution.md](./constitution.md)
+- **Implementation:** [scripts/](./scripts/)
+- **Git:** use branch `main`; run `git log` for task-based commit history.
+
+---
+
 ## SDD Audit Artifacts (Wekan L&D)
 
 **Submit this repository only** (not a parent folder). Required artifacts are at **repository root**:
